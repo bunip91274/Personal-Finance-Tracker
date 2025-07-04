@@ -29,7 +29,7 @@ A simple Python desktop app that tracks income and expenses, stores them in a CS
 
 ## How It Works
 
-1. Enter a numeric amount (e.g. `25.99`), a category (e.g. `Food`), and the type (`expense` or `income`)
+1. Enter a numeric amount (e.g. `25.99`) and a category (e.g. `Food`)
 2. Click **Add Transaction** to log the entry
 3. Click **View Graph** to see a pie chart of your expense breakdown
 4. Click **Clear Data** to reset all entries (with confirmation)
