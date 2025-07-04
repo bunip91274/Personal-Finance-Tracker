@@ -23,6 +23,8 @@ A simple Python desktop app that tracks income and expenses, stores them in a CS
 
 ![Screenshot](Screenshot%202025-07-04%20174812.png)
 
+*Data is visualized using matplotlib*
+
 ---
 
 ## How It Works
