@@ -1,6 +1,6 @@
 # Personal Finance Tracker
 
-A simple Python desktop app that tracks income and expenses, stores them in a CSV file, and visualizes spending as a pie chart using matplotlib.
+A simple Python desktop app that tracks expenses, stores them in a CSV file, and visualizes spending as a pie chart using matplotlib.
 
 ---
 
