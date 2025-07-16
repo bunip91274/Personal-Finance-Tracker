@@ -34,7 +34,8 @@ A simple Python desktop app that tracks expenses, stores them in a CSV file, and
 2. Click **Add Transaction** to log the entry
 3. Click **View Graph** to see a pie chart of your expense breakdown
 4. Click **Clear Data** to reset all entries (with confirmation)
-5. Click **Import CSV** to import your own CSV file. You can then add to it with the UI or view the graph if data is already present
+5. Click **Import CSV** to import your own CSV file. You can then add to it with the UI or view the graph if data is already present.
+   **Data should be formatted in the following format for each row: amount,name of expense**
 
 ---
 
