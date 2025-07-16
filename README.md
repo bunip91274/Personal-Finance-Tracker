@@ -12,6 +12,7 @@ A simple Python desktop app that tracks expenses, stores them in a CSV file, and
 - Pie chart shows actual dollar amounts
 - Clear all data with a one-click button (includes confirmation)
 - Input validation to prevent blank fields or invalid values
+- Supports file import of standard CSV files (not UTF-8), due to BOM's messing up the program
 
 ---
 
