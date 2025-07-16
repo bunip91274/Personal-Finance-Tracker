@@ -18,7 +18,7 @@ A simple Python desktop app that tracks expenses, stores them in a CSV file, and
 
 ## Visuals
 
-![Screenshot](Screenshot%202025-07-04%20183914.png)
+![Screenshot](Screenshot%202025-07-15%20223652.png)
 
 *The interface is built with Tkinter.*
 
