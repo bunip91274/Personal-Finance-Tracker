@@ -6,13 +6,13 @@ A simple Python desktop app that tracks expenses, stores them in a CSV file, and
 
 ## Features
 
-- Add transactions with amount, category, and type (income/expense)
+- Add transactions with an amount and a category
 - Stores data in `budget.csv`
 - View expenses with a pie chart labeled by category
 - Pie chart shows actual dollar amounts
 - Clear all data with a one-click button (includes confirmation)
 - Input validation to prevent blank fields or invalid values
-- Supports file import of standard CSV files (not UTF-8), due to BOM's messing up the program
+- Import existing CSV files, including Excel "UTF-8 CSV" files (the BOM is handled automatically)
 
 ---
 
@@ -48,3 +48,4 @@ To install matplotlib:
 
 ```bash
 pip install matplotlib
+```
